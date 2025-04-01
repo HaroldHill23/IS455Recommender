@@ -1,6 +1,6 @@
 # Visual Studio
 .vs/
-.vsidx/
+*.vsidx
 
 # Build artifacts
 bin/
